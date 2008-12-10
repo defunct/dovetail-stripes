@@ -13,7 +13,6 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 
-import com.goodworkalan.dovetail.MergedRequestWrapper;
 
 /**
  * A servlet filter that initializes the matched pattern cache for each

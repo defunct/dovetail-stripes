@@ -25,7 +25,6 @@ import net.sourceforge.stripes.util.Log;
 
 import com.goodworkalan.dovetail.Glob;
 import com.goodworkalan.dovetail.GlobMapping;
-import com.goodworkalan.dovetail.GlobSet;
 
 
 public class DovetailNameResolver
